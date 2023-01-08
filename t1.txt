@@ -2,4 +2,4 @@ blalbla
 
 bla
 
-f2 f2 f2
+newline - f1
